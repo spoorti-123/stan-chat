@@ -156,6 +156,3 @@ DELETE /chat/{user_id}
 3. Submit PR 🚀  
 
 ---
-
-## 📜 License
-MIT License © 2025 [Your Name]
